@@ -3,9 +3,7 @@ import java.util.Scanner;
  * Purpose: This program takes in two numbers from the user.
    One number being the base and the other being the exponent.
    It then solves for x^n recursively.
- * Author's Panther ID: 3276301
- * Certification: I hereby certify that this work is my own
-   and none of it is the work of any other person.
+ * Author: Megan Jane Thompson
 **************************************************************/
 
 public class Exponentiation {
